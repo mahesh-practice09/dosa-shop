@@ -22,3 +22,9 @@ masala
 
 Batter added
 2 eggs
+
+
+### onion dosa
+
+single egg
+batter
