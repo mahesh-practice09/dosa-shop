@@ -34,3 +34,4 @@ batter
 * dosa batter
 * carrot and beetroot
 * ghee
+* masala
