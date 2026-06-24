@@ -18,7 +18,7 @@ Dosa Batter
 oil
 masala
 
-### Egg-dosa
- 
- Dosa Batter
- 2 eggs added
+#### Egg Dosa
+
+Batter added
+2 eggs
