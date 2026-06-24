@@ -17,3 +17,8 @@ karam
 Dosa Batter
 oil
 masala
+
+### Egg-dosa
+ 
+ Dosa Batter
+ 
